@@ -1,0 +1,16 @@
+**Problem Statement: Healthcare Data Analysis Dashboard**
+
+The objective of this analysis is to create a comprehensive healthcare data dashboard that provides actionable insights for healthcare administrators. The key performance indicators (KPIs) include:
+
+- **Admit Date**, **Discharge Date**, and **Follow-up Date** to monitor patient flow and care timelines.
+- **Billing Amount** and **Health Insurance Amount** to evaluate financial aspects of patient care.
+
+The dashboard will include the following visualizations:
+1. **Bed Occupancy Analysis**: A chart displaying the bed occupancy trends to track resource utilization.
+2. **Feedback Volume per Doctor**: A bar chart to assess patient satisfaction across different doctors based on feedback scores.
+3. **Diagnosis-wise Patient Count**: A chart displaying patient counts per diagnosis to understand the frequency of medical conditions treated.
+4. **Line Chart**: On the X-axis, the various **Tests** performed, and on the Y-axis, the comparison between **Billing Amount** and **Health Insurance Amount**, offering insights into the financial distribution of treatments.
+
+Additionally, a **slicer for Patient ID** will be incorporated to enable detailed filtering of patient-specific data for more personalized insights. 
+
+This dashboard will help healthcare professionals make informed decisions, optimize hospital operations, and assess patient satisfaction and financial health.
